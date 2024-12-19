@@ -1,2 +1,2 @@
 # Simulations
-Simulations related to physics
+Simulations related to Mathematics and Physics
