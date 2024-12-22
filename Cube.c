@@ -101,7 +101,7 @@ int main()
 
 	    }
 
-		cubeWidth = 10;
+		cubeWidth = 10; //cube 2
 		horizontalOffset = 1 * cubeWidth;
 		for (float cubeX = -cubeWidth; cubeX < cubeWidth; cubeX += IncrementSpeed) {
 			for (float cubeY = -cubeWidth; cubeY < cubeWidth; cubeY += IncrementSpeed) {
